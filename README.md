@@ -31,11 +31,11 @@ Clica em Ativar Lightsquid --> Guardar
 Credits/Creditos:  
 --------
 
-An addon by Bruno Almeida 
+An addon by Bruno Almeida - Linkedin:https://www.linkedin.com/in/bruno-almeida-de-oliveira-39336913b
 
 /
 
-addons feito por Bruno Almeida
+addons feito por Bruno Almeida - Linledin: https://www.linkedin.com/in/bruno-almeida-de-oliveira-39336913b
 
 
 
