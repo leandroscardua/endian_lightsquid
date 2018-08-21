@@ -14,7 +14,7 @@ Download : lightsquid-endian3-2.0-1.x86_64.rpm
 
 Installation/Instalação:
 --------
-
+    curl -Lo lightsquid-endian3-2.0-1.x86_64.rpm https://github.com/leandroscardua/endian_lightsquid/blob/master/lightsquid-endian3-2.0-1.x86_64.rpm?raw=true
     rpm -Uvh lightsquid-endian3-2.0-1.x86_64.rpm 
     
     
