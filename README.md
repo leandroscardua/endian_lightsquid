@@ -28,10 +28,21 @@ Click on Active Lightsquid --> Save
 Pela interface web, clique na aba registros e relatorios --> Proxy --> Relatorio HTTP
 Clica em Ativar Lightsquid --> Guardar
 
+Definindo uma senha para o usuario lighsquid:
+
+    Execute o script no console ssh: /usr/local/bin/lightsquid-password.sh ou lightsquid-password.sh.
+    Digite a senha a ser utilizada para acessar os relatorios e pressione ENTER.
+
+Acesso direto aos relatorios:
+
+Link: https://YOURENDIANGREENIP:10443/lightsquid (Ex: https://192.168.0.15:10443/lightsquid )
+
+Logue com o usuario lightsquid e forneça a senha configurada no passo anterior (scripts de senha).
+
 Credits/Creditos:  
 --------
 
-An addon by Bruno Almeida - Linkedin:https://www.linkedin.com/in/bruno-almeida-de-oliveira-39336913b
+An addon by Bruno Almeida - Linkedin:https://github.com/brunoalmeida33/EndianFirewall3.2_Lightsquid
 
 /
 
