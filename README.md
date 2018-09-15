@@ -42,11 +42,11 @@ Logue com o usuario lightsquid e forneça a senha configurada no passo anterior 
 Credits/Creditos:  
 --------
 
-An addon by Bruno Almeida - Linkedin:https://github.com/brunoalmeida33/EndianFirewall3.2_Lightsquid
+An addon by Bruno Almeida - Github:https://github.com/brunoalmeida33/EndianFirewall3.2_Lightsquid
 
 /
 
-addons feito por Bruno Almeida - Linledin: https://www.linkedin.com/in/bruno-almeida-de-oliveira-39336913b
+addons feito por Bruno Almeida - Github: https://www.linkedin.com/in/bruno-almeida-de-oliveira-39336913b
 
 
 
